@@ -1,0 +1,6 @@
+{
+    "kelompok": "Kelompok 3",
+    "anggota": ["Aryy", "Davin"],
+    "keterangan": "Data awal sebelum Bubble Sort",
+    "arrayData": [10, 5, 20, 15, 30]
+}
